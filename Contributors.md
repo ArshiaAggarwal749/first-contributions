@@ -1,4 +1,5 @@
 # Contributors
+- [Atham Vahith](https://github.com/theRawrrr) 🇮🇳
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Bruce Felix](https://github.com/BruceFelix)
@@ -34,6 +35,7 @@ Diana LaScala-Gruenewald
 YiCheng Chung
 [Denton Sun](https://github.com/Dentsun)
 Aadiya Agrawal
+Roger Liu
 [Shubham Malpani] (https://github.com/SHUBH778)
 [Laura Pasqualone](https://github.com/lpasqualone)
 [bhavna nagar](https://github.com/bhavna-nagar)
@@ -245,6 +247,7 @@ Rahul V (rahulv07)
 -[Daniel Ojeda](https://github.com/leinadpy)
 -[Harvey Balaam](https://github.com/harv-bala)
 -[Reyaan Jagnani]
+-[Adam James](https://github.com/adam4nj)
 Akshit Agarwal
 -[Brandon Goldenberg](https://github.com/goldenb12)
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
@@ -4697,6 +4700,7 @@ Jairo Martinez
 - [Kunal Kanade](https://github.com/KandyKad)
 - [jim0625](https://github.com/jim0625)
 - [Kelly Corey](https://github.com/kellcore)
+- [Ibrahim](https://github.com/ibrahim-301)
 - [deecoders](https://github.com/deecoders)
 - [mmott18](https://github.com/mmott18)
 - [Mohammad Sheraj](https://github.com/mdsheraj123)
@@ -6171,6 +6175,7 @@ Yury Smyslov
 - [Thomas Ongley](https://github.com/thomasongley)
 - Tofig B.
 - [Kathleen Capella](https://github.com/kcapella)
+- [Aycan Ogut](https://github.com/aycanogut)
 - [SEYI-JS](https://github.com/seyi-js)
 - [Kundan-Kumar](https://github.com/kundan16)
 - Sathya S
@@ -6546,6 +6551,7 @@ Yury Smyslov
 - [Brian Mboya](https://github.com/asheux)
 - [Harshavardhan](https://github.com/Ajatasatruvu)
 - [Hitendra tiwari](https://github.com/azgithubhpt)
+- [NoblySP](https://github.com/NoblySP/)
 - Sri
 - Robbe Goethals
 - raddd
@@ -9493,6 +9499,7 @@ Yury Smyslov
 - [bleirdalag](https://github.com/bleirdalag)
 - [Sterling Watts](https://github.com/SterlingDWatts)
 - [Filipe Estacio](https://github.com/filipeestacio)
+- [Fangzhen Song](https://github.com/song-fangzhen)
 - [Kyungmin Lee](https://github.com/rekyungmin)
 - [Todd Crooks](https://github.com/Ujili)
 - [Adexandria](https://github.com/adexandria)
@@ -11880,3 +11887,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [maske3](https://github.com/maske3)
 - [Siddharth Priyadarshi](https://github.com/siddharthPriyadarshi)
 - [Limerenxey](https://github.com/YemingQing)
+- [Zyq](https://github.com/zeng865170091)
